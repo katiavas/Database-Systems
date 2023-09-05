@@ -1,0 +1,4 @@
+C:/Users/Aikaterini/Documents/Synopsis/quicksilver22/CMakeFiles/quicksilver.dir
+C:/Users/Aikaterini/Documents/Synopsis/quicksilver22/CMakeFiles/benchmarker.dir
+C:/Users/Aikaterini/Documents/Synopsis/quicksilver22/CMakeFiles/edit_cache.dir
+C:/Users/Aikaterini/Documents/Synopsis/quicksilver22/CMakeFiles/rebuild_cache.dir
